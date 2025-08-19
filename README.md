@@ -1,4 +1,8 @@
 <h1 align="center">Foodio 🍽️</h1>
+### 🌐 Live Demo
+
+👉 [Click here to view Foodio Live](https://your-deployed-link.com)
+
 
 <p align="center">
   <strong>A full-stack recipe sharing platform that brings food lovers together to create, share, and discover amazing dishes.</strong>
